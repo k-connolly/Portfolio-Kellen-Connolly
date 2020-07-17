@@ -1,4 +1,4 @@
-# Java-Program-Portfolio
+# Programming Portfolio for Kellen Connolly
 Portfolio of past work with CS classes as well as electives that apply.
 
 *CSC145 is Introduction to Programming (with java). 
